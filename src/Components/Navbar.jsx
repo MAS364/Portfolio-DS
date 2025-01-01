@@ -1,47 +1,4 @@
-// import React from "react";
-// import logo from "../assets/logo.png";
-// import { FaLinkedin, FaGithub, FaSquare, FaDownload } from "react-icons/fa";
 
-// const Navbar = () => {
-//   return (
-//     <nav className="mb-20 flex items-center justify-between py-6">
-//       <div className="flex flex-shrink-0 items-center">
-//         <img
-//           className="mx-2 w-14 h-14 rounded-full hover:bg-purple-700"
-//           src={logo}
-//           alt="logo"
-//         />
-//       </div>
-//       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-//         <a
-//           href="https://drive.google.com/file/d/1aLCYx9A0GAIDPm8aTWGWICC-iqy7J9ws/view?usp=drive_link"
-//           download
-//           className="hover:text-purple-900"
-//         >
-//           <FaDownload />
-//         </a>
-//         <a
-//           href="https://www.linkedin.com/in/mas364/"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//           className="hover:text-purple-900"
-//         >
-//           <FaLinkedin />
-//         </a>
-//         <a
-//           href="https://github.com/MAS364"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//           className="hover:text-purple-900"
-//         >
-//           <FaGithub />
-//         </a>
-//       </div>
-//     </nav>
-//   );
-// };
-
-// export default Navbar;
 
 
 
@@ -66,7 +23,7 @@ const Navbar = () => {
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         {/* Download link */}
         <a
-          href="https://drive.google.com/file/d/1aLCYx9A0GAIDPm8aTWGWICC-iqy7J9ws/view?usp=drive_link"  // Link to Google Drive file
+          href="https://drive.google.com/file/d/1B3IUSJ5Lcq7Y2u0kn4axhyqGiVocghc0/view?usp=sharing"  // Link to Google Drive file
           download
           className="hover:text-purple-900"  // Hover effect to change text color
         >

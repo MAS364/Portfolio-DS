@@ -1,16 +1,15 @@
 
 
-export const HERO_CONTENT = `I am a Software Engineer with 3 years of experience in frontend development, specializing in creating visually appealing and responsive web applications. My expertise includes HTML, CSS, and JavaScript, which I use to design and implement stunning, user-centric interfaces. I have hands-on experience with modern frameworks like React.js, Next.js, and Tailwind CSS, enabling me to build scalable and efficient web solutions.
+export const HERO_CONTENT = `
+Hi, I’m Siddique Mohammad Arshad, a data analyst passionate about transforming raw data into actionable insights, with a knack for uncovering trends that drive strategic decision-making. Let’s collaborate to turn numbers into meaningful stories that fuel growth. 
+If you’re looking for a data-driven professional to elevate your business, let’s connect!
+`
 
-I am passionate about delivering innovative and functional designs while adhering to the latest web development trends and best practices. My focus is on crafting seamless user experiences that combine performance with aesthetics.
+export const ABOUT_TEXT = `I’m a software engineer with 2 years of experience in front-end technologies, but my journey didn’t stop there. Driven by a curiosity to uncover the stories hidden in data, I transitioned into the data field to explore its power to solve complex problems and drive impactful decisions.
 
-I am dedicated to continuous learning and staying updated with emerging technologies. I enjoy collaborating in dynamic teams where creativity and problem-solving are encouraged. Driven by a desire for personal and professional growth, I aim to contribute my skills and enthusiasm to impactful projects that make a difference.`;
+Proficient in Python, SQL, and Power BI, I have a strong foundation in data cleaning, exploratory data analysis (EDA), and dashboard creation. Leveraging libraries like Pandas, NumPy, Matplotlib, and Seaborn, I excel at extracting actionable insights and developing predictive models using machine learning techniques. I specialize in communicating complex data through compelling visualizations and presentations, supporting informed decision-making. Additionally, my expertise in front-end technologies like HTML, CSS, JavaScript, and ReactJS enables me to build interactive and user-friendly data applications.
 
-export const ABOUT_TEXT = `A motivated and detail-oriented Software Engineer, I specialize in crafting dynamic, responsive, and user-friendly web applications. My expertise spans HTML, CSS, and JavaScript, along with a strong foundation in TypeScript, enabling me to build maintainable and scalable solutions.
-I excel in leveraging modern frameworks like React.js and Next.js to deliver seamless, high-performance user experiences. My skills in Tailwind CSS, Bootstrap 5, and shadcn/ui empower me to design aesthetically pleasing and efficient interfaces tailored to user needs.
-On the backend, I work with Node.js and databases like Firebase and Supabase, ensuring real-time data handling and scalability. I effectively manage state with Redux and implement secure user authentication with tools like Clerk.  
-Proficient in version control using Git and GitHub, I thrive in collaborative environments and follow best practices to streamline development workflows. Familiarity with tools like NPM and Babel enables me to manage dependencies and optimize builds efficiently.  
-Continuously striving to expand my knowledge, I am committed to delivering high-quality software solutions that solve real-world problems and make a meaningful impact.`;
+I thrive in collaborative team environments and quickly adapt to dynamic challenges. Driven by a passion for data-driven solutions, I focus on developing innovative analytics that address critical business needs. My goal is to continue growing as a Data Scientist, using my expanding knowledge to drive meaningful impact through analytics and innovation.`;
 
 export const EXPERIENCES = [
   {
@@ -42,24 +41,23 @@ export const PROJECTS = [
   {
     title: "Youtube Clone",
     description:
-      "The Hirrd React App is a job portal platform designed to streamline the hiring process, offering intuitive features for both candidates seeking jobs and recruiters managing applications.",
-    technologies: ["React", "Tailwind CSS", "Shadcn/ui", "Supabase", "Clerk"],
+      "This is a YouTube Clone App allows users to browse videos using the YouTube API. Users can search for specific content by entering queries, view a list of results based on their search, and click on videos to watch the selected content.",
+    technologies: ["React", "Tailwind CSS", "HTML", "Rapid API"],
     url: "https://mas-clone.vercel.app/",
     code: "https://github.com/MAS364/YClone"
   },
   {
     title: "CoinBit",
-    description:
-      "This is a Gemini Clone React App that brings the cosmos to your fingertips! It's interactive, tapping into Google's Gemini API for live celestial data. Crafted with CSS and driven by Context API for seamless state management.",
-    technologies: ["HTML", "CSS", "React", "Google Gemini API"],
+    description:"A crypto tracker app, enables users to search for cryptocurrencies and view trending coins. Integrated real-time data from the Coingecko API to provide live updates on cryptocurrency prices.",
+    technologies: ["HTML", "Tailwind", "React", "Coingecko API", "Material Ui"],
     url: "https://mas-crypto.vercel.app/",
     code: "https://github.com/MAS364/Cryptotracker"
   },
   {
     title: "React Components",
     description:
-      "This is a web application that allows users to search for videos using the YouTube Data API provided by Rapid API. Users can enter search queries, view a list of videos based on the search results, and play selected videos.",
-    technologies: ["HTML", "Tailwind", "React", "Rapid API"],
+      "Built multiple React Components to gain comprehensive insight into state management, component lifecycle, and event handling within React.",
+    technologies: ["HTML", "CSS", "JS", "React"],
     url: "https://components-mas-react.vercel.app/",
     code: "https://github.com/MAS364/Components"
   },
