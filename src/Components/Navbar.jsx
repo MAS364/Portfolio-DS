@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         {/* Download link */}
         <a
-          href="https://drive.google.com/file/d/1B3IUSJ5Lcq7Y2u0kn4axhyqGiVocghc0/view?usp=sharing"  // Link to Google Drive file
+          href="https://drive.google.com/file/d/10z486NmG9XosG9Xu-j99BohRXr_D6axu/view?usp=sharing"  // Link to Google Drive file
           download
           className="hover:text-purple-900"  // Hover effect to change text color
         >
