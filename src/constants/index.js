@@ -13,7 +13,7 @@ I thrive in collaborative team environments and quickly adapt to dynamic challen
 
 export const EXPERIENCES = [
   {
-    year: "Dec 2022 - Dec 2024",
+    year: "Feb 2023 - Feb 2025",
     role: "Software Engineer",
     company: " Mindtech iSolutions",
     description: `Collaborated with cross-functional teams to design, develop, and maintain user-friendly web applications with a focus on responsive design and optimal user experience.Translated wireframes into high-quality code using front-end libraries - React JS , 
@@ -39,6 +39,34 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "Flight Price Analysis and Visualization",
+    description: "In this project, I have analyzed and visualized flight price data to identify trends and insights across multiple airlines. The dataset included information on airline prices, and I performed exploratory data analysis (EDA) using Python's Pandas, NumPy, and Seaborn libraries",
+    technologies: [],
+    url:"",
+    code: "https://github.com/MAS364/EDA---Flight-Price-Prediction"
+  },
+  {
+    title: "Sales Analysis Dashboard",
+    description:"Developed an interactive Sales Analysis Dashboard to track and visualize sales trends, profitability, and customer purchasing patterns from 2020 to 2024. Analyzed key performance metrics, including total sales, profit margins, product-wise performance, and promotional effectiveness.",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiZjhjMDU3MzUtOTQ4YS00YmY1LWI1MWQtZmY0MzNhMTk4OTBiIiwidCI6IjRlMDRjNGVjLTEyYzMtNDdhYy05MzhkLTFmZWZjODExNTE2MCJ9&pageName=870538b047557d673905",
+     technologies: [],
+    code: "https://github.com/MAS364/PowerBI_Projects/tree/main/Project%20-%20Sales%20Data%20Analysis"
+  },
+  {
+    title: "Bicycle Company Quarterly Sales DashBoard",
+    description:"Developed a comprehensive quarterly sales performance report for Adventure Works, analyzing sales trends, product categories, regional performance, and salesperson contributions. Provided actionable insights to optimize business strategies.",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiNGIxYjRlN2MtN2MyMS00OTVlLTk3MzItZmU4NjY0ZmU1OThmIiwidCI6IjRlMDRjNGVjLTEyYzMtNDdhYy05MzhkLTFmZWZjODExNTE2MCJ9",
+    technologies: [],
+    code: "https://github.com/MAS364/PowerBI_Projects/tree/main/Project%20-%20Bicycle%20Quarter%20Sales%20Report"
+  },
+  {
+    title: "UPI Transaction Analysis",
+    description:"Developed a UPI transaction analysis dashboard to track digital payment trends, user demographics, and transaction patterns across multiple cities. Provided insights into transaction volumes, payment methods, and banking trends.",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiYjc4NjM0NmMtYzI1Ny00YmY2LTlmYzctMWEyMjA0NzJmZjM0IiwidCI6IjRlMDRjNGVjLTEyYzMtNDdhYy05MzhkLTFmZWZjODExNTE2MCJ9",
+    technologies: [],
+    code: "https://github.com/MAS364/PowerBI_Projects/tree/main/Project%20-%20UPI%20Transaction%20Analysis"
+  },
+  {
     title: "Youtube Clone",
     description:
       "This is a YouTube Clone App allows users to browse videos using the YouTube API. Users can search for specific content by entering queries, view a list of results based on their search, and click on videos to watch the selected content.",
@@ -61,13 +89,9 @@ export const PROJECTS = [
     url: "https://components-mas-react.vercel.app/",
     code: "https://github.com/MAS364/Components"
   },
-  // {
-  //   title: "Amazon Clone App",
-  //   description:
-  //     "Developed an Amazon Clone application featuring user authentication, product listing, and a functional shopping cart. Integrated Firebase for hosting, authentication, and storage, with Material-UI for an enhanced user interface and React-Currency-Tool for price formatting.",
-  //   technologies: ["HTML", "CSS", "React", "Material UI", "Firebase"],
-  //   url: "https://clone-app-d9564.web.app/",
-  // },
+  
+  
+  
 ];
 
 export const CONTACT = {
