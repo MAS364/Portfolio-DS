@@ -12,6 +12,23 @@ Proficient in Python, SQL, and Power BI, I have a strong foundation in data clea
 I thrive in collaborative team environments and quickly adapt to dynamic challenges. Driven by a passion for data-driven solutions, I focus on developing innovative analytics that address critical business needs. My goal is to continue growing as a Data Scientist, using my expanding knowledge to drive meaningful impact through analytics and innovation.`;
 
 export const EXPERIENCES = [
+
+  {
+    
+    year: "April 2025 - Oct 2025",
+    role: "Business Analyst Intern",
+    company: "Unified Mentor Pvt Ltd",
+    description: `Completed a 6-month intensive, hands-on program focused on real-world business analytics.
+    Learned and applied SQL, Power BI, Excel, and Python for data cleaning, transformation, visualization, and analysis.
+    Built end-to-end analytics projects, including a Pizza Sales Analysis dashboard that tracked KPIs such as revenue trends, top-selling products, and customer ordering patterns.
+    Followed a "learn and implement" approach — directly applying newly learned concepts to industry-inspired datasets to build practical problem-solving skills.
+    Developed data storytelling skills, creating insightful reports and visualizations for stakeholders.Gained experience in ETL processes, KPI tracking, and dashboard automation using Power BI.`
+
+ },
+
+
+
+
   {
     year: "Feb 2023 - Feb 2025",
     role: "Software Engineer",
