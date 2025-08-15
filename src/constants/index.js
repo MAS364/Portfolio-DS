@@ -18,10 +18,8 @@ export const EXPERIENCES = [
     year: "April 2025 - Oct 2025",
     role: "Business Analyst Intern",
     company: "Unified Mentor Pvt Ltd",
-    description: `Completed a 6-month intensive, hands-on program focused on real-world business analytics.
-    Learned and applied SQL, Power BI, Excel, and Python for data cleaning, transformation, visualization, and analysis.
-    Built end-to-end analytics projects, including a Pizza Sales Analysis dashboard that tracked KPIs such as revenue trends, top-selling products, and customer ordering patterns.
-    Followed a "learn and implement" approach — directly applying newly learned concepts to industry-inspired datasets to build practical problem-solving skills.
+    description: `Completed a 6-month intensive, hands-on program focused on real-world business analytics.Learned and applied SQL, Power BI, Excel, and Python for data cleaning, transformation, visualization, and analysis.
+    Built end-to-end analytics projects, including a Pizza Sales Analysis dashboard that tracked KPIs such as revenue trends, top-selling products, and customer ordering patterns.Followed a "learn and implement" approach — directly applying newly learned concepts to industry-inspired datasets to build practical problem-solving skills.
     Developed data storytelling skills, creating insightful reports and visualizations for stakeholders.Gained experience in ETL processes, KPI tracking, and dashboard automation using Power BI.`
 
  },
