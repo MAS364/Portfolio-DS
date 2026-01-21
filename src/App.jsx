@@ -19,11 +19,11 @@ const App = () => {
       <div className="container mx-auto px-6">
         <Navbar />
         <Hero />
-        <About />
         <Skills />
         <Projects />
         <Experience />
         <Education />
+         <About />
         <Contact />
       </div>
     </div>
