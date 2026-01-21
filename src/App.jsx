@@ -2,10 +2,18 @@ import React from "react";
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
+<<<<<<< HEAD
 import Technologies from "./Components/Technologies";
 import Experience from "./Components/Experience";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
+=======
+import Skills from "./Components/Skills";
+import Experience from "./Components/Experience";
+import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
+import Education from "./Components/Education";
+>>>>>>> dcf9723 (Initial commit)
 
 const App = () => {
   return (
@@ -15,10 +23,18 @@ const App = () => {
       </div>
       <div className=" container mx-auto px-6">
         <Navbar />
+<<<<<<< HEAD
         <Technologies />
         <Projects />
         <Experience />
         <Hero />
+=======
+        <Hero />
+        <Skills />
+        <Projects />
+        <Experience />
+        <Education/>
+>>>>>>> dcf9723 (Initial commit)
         <About />
         <Contact />
       </div>
